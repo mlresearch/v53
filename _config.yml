@@ -1,0 +1,59 @@
+---
+booktitle: 'Proceedings of the 5th International Workshop on Big Data, Streams and
+  Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications
+  at KDD 2016'
+title: 'Proceedings of the 5th International Workshop on Big Data, Streams and Heterogeneous
+  Source Mining: Algorithms, Systems, Programming Models and Applications at KDD 2016'
+volume: 53
+year: '2016'
+shortname: BigMine
+published: 2016-12-06
+start: 2016-08-14
+end: 2016-08-14
+sections:
+- name: front
+  title: Front Matter
+- name: default
+  title: Accepted Papers
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: BIGMINE-2016
+month: 0
+abstract: ''
+editor:
+- given: Wei
+  family: Fan
+- given: Albert
+  family: Bifet
+- given: Jesse
+  family: Read
+- given: Qiang
+  family: Yang
+- given: Philip S.
+  family: Yu
+email: ''
+description: 'Proceedings of the 5th International Workshop on Big Data, Streams and
+  Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications
+  at KDD 2016, San Francisco, California, USA'
+url: http://proceedings.mlr.press
+baseurl: "/v53"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v53
+conference:
+  name: 'Proceedings of the 5th International Workshop on Big Data, Streams and Heterogeneous
+    Source Mining: Algorithms, Systems, Programming Models and Applications at KDD
+    2016'
+  url: http://bigmine.github.io/bigmine16/
+  location: San Francisco, California, USA
+  dates:
+  - 2016-08-14
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v53.bib
