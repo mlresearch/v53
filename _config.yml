@@ -2,8 +2,6 @@
 booktitle: 'Proceedings of the 5th International Workshop on Big Data, Streams and
   Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications
   at KDD 2016'
-title: 'Proceedings of the 5th International Workshop on Big Data, Streams and Heterogeneous
-  Source Mining: Algorithms, Systems, Programming Models and Applications at KDD 2016'
 volume: 53
 year: '2016'
 shortname: BigMine
@@ -31,6 +29,8 @@ editor:
   family: Yang
 - given: Philip S.
   family: Yu
+title: 'Proceedings of the 5th International Workshop on Big Data, Streams and Heterogeneous
+  Source Mining: Algorithms, Systems, Programming Models and Applications at KDD 2016'
 email: ''
 description: 'Proceedings of the 5th International Workshop on Big Data, Streams and
   Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications
@@ -45,9 +45,8 @@ github:
   edit: true
   repository: v53
 conference:
-  name: 'Proceedings of the 5th International Workshop on Big Data, Streams and Heterogeneous
-    Source Mining: Algorithms, Systems, Programming Models and Applications at KDD
-    2016'
+  name: 'Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms,
+    Systems, Programming Models and Applications'
   url: http://bigmine.github.io/bigmine16/
   location: San Francisco, California, USA
   dates:
