@@ -29,12 +29,23 @@ editor:
   family: Yang
 - given: Philip S.
   family: Yu
-title: 'Proceedings of the 5th International Workshop on Big Data, Streams and Heterogeneous
-  Source Mining: Algorithms, Systems, Programming Models and Applications at KDD 2016'
-email: ''
-description: 'Proceedings of the 5th International Workshop on Big Data, Streams and
-  Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications
-  at KDD 2016, San Francisco, California, USA'
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 5th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications at KDD 2016
+    Held in San Francisco, California, USA on 14 August 2016
+
+  Published as Volume 53 by the Proceedings of Machine Learning Research on 06 December 2016.
+
+  Volume Edited by:
+    Wei Fan
+    Albert Bifet
+    Jesse Read
+    Qiang Yang
+    Philip S. Yu
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
 url: http://proceedings.mlr.press
 baseurl: "/v53"
 twitter_username: mlresearch
@@ -44,6 +55,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v53
+email: ''
 conference:
   name: 'Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms,
     Systems, Programming Models and Applications'
