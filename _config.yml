@@ -17,9 +17,6 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: BIGMINE-2016
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Wei
@@ -32,6 +29,7 @@ editor:
   family: Yang
 - given: Philip S.
   family: Yu
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 5th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications at KDD 2016
     Held in San Francisco, California, USA on 14 August 2016
@@ -51,7 +49,7 @@ description: |
 date_str: 14 Aug
 url: http://proceedings.mlr.press
 baseurl: "/v53"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -63,6 +61,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -77,3 +76,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v53.bib
+---
