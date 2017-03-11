@@ -71,6 +71,7 @@ conference:
   location: San Francisco, California, USA
   dates:
   - 2016-08-14
+  number: 5
 analytics:
   google:
     tracking_id: UA-92432422-1
