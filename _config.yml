@@ -2,6 +2,7 @@
 booktitle: 'Proceedings of the 5th International Workshop on Big Data, Streams and
   Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications
   at KDD 2016'
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 volume: 53
 year: '2016'
 shortname: BigMine
@@ -56,6 +57,10 @@ baseurl: "/v53"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
 style: pmlr
 plugins:
 - jekyll-feed
@@ -85,6 +90,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
 # Original source:  /Users/neil/mlresearch/bibtex.bib
